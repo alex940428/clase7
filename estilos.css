@@ -1,0 +1,68 @@
+.c1{
+    background-color: blue;
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+
+.c2{
+    background-color: gray;
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+
+.c3{
+    background-color: black;
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+
+.c4{
+    background-color: gray;
+    height: 130px;
+    width: 570px;
+    display: inline-block;
+}
+
+.c5{
+    background-color: darkgray;
+    height: 130px;
+    width: 570px;
+    display: inline-block;
+}
+
+.c6{
+    background-color: gray;
+    position: relative;
+    height: 130px;
+    width: 500px;
+    display: inline-block;
+    left: 70px;
+}
+
+.c7{
+    background-color: darkgray;
+    position: relative;
+    height: 130px;
+    width: 500px;
+    display: inline-block;
+    left: 70px;
+}
+
+.hijo1{
+    background-color: red;
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    bottom: 0px;
+}
+.hijo2{
+    background-color: red;
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
